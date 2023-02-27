@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* style
+for
+h1 */
+h1{
+    text-decoration: underline;
+}
+
+p{
+    color: brown;
+}
+
+.first {
+    color: cyan;
+}
+
+.days {
+    font-size: 16pt;
+    width: auto;
+}
+.days li:first-child{
+    background-color: khaki;
+    color: firebrick;
+}
+.days li:last-child{
+    background-color: blueviolet;
+    color: darkgreen;
+}
